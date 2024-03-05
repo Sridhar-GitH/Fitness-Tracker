@@ -1,4 +1,4 @@
-# Fitnes Tracker Application 
+# Fitness Tracker Application 
 
 ![Screenshot 2024-03-05 212501](https://github.com/Sridhar-GitH/Fitness-Tracker/assets/142201616/9af8a13d-a809-43d8-9691-aa9611be78df)
 
