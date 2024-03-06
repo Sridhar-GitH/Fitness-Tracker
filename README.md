@@ -17,7 +17,7 @@ Welcome to Fitness Tracker, a dynamic web application designed for activity anal
 
 #### <a href="https://fitness-tracker-yxox.onrender.com/"> Visit site </a>
 or
-#### <a href="http://54.227.116.222:8501/"> Visit site </a> (AWS Server 🤫 )
+#### <a href="http://54.90.195.88:8501/"> Visit site </a> (AWS Server 🤫 )
 
 
 https://github.com/Sridhar-GitH/Fitness-Tracker/assets/142201616/5f3434e9-9316-497e-97ae-1e0d9f09047a
